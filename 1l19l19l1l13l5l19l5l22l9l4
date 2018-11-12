@@ -1,0 +1,21 @@
+[
+    {"firstName":"com.gwthao.music.music.wow","name":"Wow! Music Player", "lastName":"https://lh3.googleusercontent.com/FPjGpOmqZv4RuBudtjrFoEyt2AebgttyX54zc7XbgQxANMBhbFhBr1ADQXa_PIc31wwhN_Ubj-pcfOlCoA=s100-rw"},
+{"firstName":"com.hitmusicandentertainment.gujaratividflm","name":"Gujarati Video Songs", "lastName":"https://lh3.googleusercontent.com/LEMDl-7MeoW3vrdl_T93HdE3nOzVNejCK5IxOKVeo8ZZ86t4_6sKF3wkkzymKltRo09NekL6ljqS8D8eyA=s100-rw"},
+{"firstName":"com.gwthao.hdmoviesnfilms","name":"HD Movies & Films [Eng, Hindi, Dub, Desi, Videos]", "lastName":"https://lh3.googleusercontent.com/wCMoVklgLwkpU_mAwk4MLQbHCYEK4Pb6g_kiPfOk0UJJTLuqvPeXolgkiVxxDGEQbcYvN-4O8iJRvcZfjA=s100-rw"}, 
+    {"firstName":"com.hitmusicandentertainment.music.music.musicplayer","name":"Star Music Player", "lastName":"https://lh3.googleusercontent.com/O6KTj31jALAvP_GJK-1JoTbJksGCfhoyYayDghFIXywZZwTRVV_E1bMOQ5bZ8Md1mmGvJyBS59GxgZygjA=s100-rw"},
+    {"firstName":"com.hitmusicandentertainment.bhojpurividflm","name":"Bhojpuri Videos & Films", "lastName":"https://lh3.googleusercontent.com/bhq1tVKHdjCTOfrwBDeY-xNXr0YBRlcnr6D9bHRmwsFFKcpACyIn0uyhdJVQ-enquDB6KdXtqZvKBiw4=s100"},
+{"firstName":"com.hitmusicandentertainment.mp3musicplayer","name":"Mp3 Music Player", "lastName":"https://lh3.googleusercontent.com/ovInnn7RnNKxLVlPaV-edycoTBYWqxOA3onKnuXjUkWysUuzuF4VEPC2eoZucnnTGawGqp9TPIFDcz_W=s100"},
+{"firstName":"com.hitmusicandentertainment.teluguvidflm","name":"Telugu Video Songs, Movies HD", "lastName":"https://lh3.googleusercontent.com/4huZMiOPbO61vy8EAiIdimWUstnxZ8hRU9WaH3y7Et9oaKhUkoYF_I4xDZr5ucrTTusO1ypZWgXB5YAgUQ=s100-rw"},
+{"firstName":"com.hitmusicandentertainment.tamilvidflm","name":"Tamil Video Songs, Movies HD", "lastName":"https://lh3.googleusercontent.com/1VDzNrON_vhkIKzuiqhXYk-xFy-nvS3sr043fkk9cVEhWoHPIqwMZBRoaer5wI47oA-967Atgi_pjE7GoA=s100-rw"},
+{"firstName":"com.hitmusicandentertainment.nagamesevidflm","name":"Nagamese Video Songs, Movies HD", "lastName":"https://lh3.googleusercontent.com/sYxoNTre1jlD62R2J2feLXIQAPt4TajVveEy-cqvA_BNSRh6qdATSGnR0a584T--z7YY-iDI0L6GBkZl9g=s100-rw"},
+    {"firstName":"com.hitmusicandentertainment.nepalividflm","name":"Nepali Videos & Films", "lastName":"https://lh3.googleusercontent.com/VUS31SMMxLU3sfRjOi77mNqQieNmdWQD9UwbVJjiZ5GyDPmwBDhx5pY-ifyHlgW1163YaqS1V2T8Z2VI=s100"},
+    {"firstName":"com.hitmusicandentertainment.assamese", "name":"Assamese Videos & Films","lastName":"https://lh3.googleusercontent.com/pB6W5Y8dd6JLTMjdpNH2H7dO-1iRrZijcVsUj9jfce22jhF_ZLPfB5sYem40e_1YJnFozSJeiBVtBlha=s100"},
+    {"firstName":"com.hitmusicandentertainment.bodo","name":"Bodo Videos & Films", "lastName":"https://lh3.googleusercontent.com/uW0uGcF7--hi4mHtyJtqcb0GvRqC2H3jlO5-JAxvIOwUxQNmrkL_YAA6fGjF8jy21qmLh-e9qhLuNewl=s100"},
+{"firstName":"com.hitmusicandentertainment.manipurividflm","name":"Manipuri Videos & Films", "lastName":"https://lh3.googleusercontent.com/fxyhBKmtXzi3jMlDKO-dCOBC3zwxfv5AByDuoY-tdDHqgrscShmDV22BPzJjnzLf1_ICfwbXOp39fMiE=s100"},
+    {"firstName":"com.hitmusicandentertainment.banglavidflm","name":"Bangla Videos & Films", "lastName":"https://lh3.googleusercontent.com/HnBGVFY17a4NbtFjAW0kcGg_92_wjCLBiVuCIhPDBKewmfEsDWgY8VjGw7GFzJxTd-xrhK5lPxK9yVNe=s100"},
+    {"firstName":"com.hitmusicandentertainment.odiyavidfilm","name":"Odia Videos & Films", "lastName":"https://lh3.googleusercontent.com/bViOI4evbbHVWdFI1wX_rq-SkvMg6b93wE0c4NzBCRQTNtoZu-0hsPfEYV7OX0TooRouoj1hieuZ--K0=s100"},
+    {"firstName":"com.hitmusicandentertainment.mising","name":"Mising Videos & Films", "lastName":"https://lh3.googleusercontent.com/h3786g0KklSxWxiITeND34R-hy_XYfi9ymMf5Q7p_vC5hnkNmQOdVEuMqy9OgMYabHyT7l1MQVOmBx1Z=s100"},
+    {"firstName":"com.hitmusicandentertainment.punjabividflm","name":"Punjabi Videos & Films", "lastName":"https://lh3.googleusercontent.com/n3a5spS8VJ8vcMzM1eWUSBeUO12IQwi0pCS-ojaLXK9zBurNqU00pT0dZs0fv6d6rgFTM-vIRseqn37u=s100"},
+    {"firstName":"com.hitmusicandentertainment.karbi","name":"Karbi Videos & Films", "lastName":"https://lh3.googleusercontent.com/rwQBQVGGJ9OcrikVsJfM0TMt0sqUKSL55gNIietVUe_p9zFax1nPiLfCVBjJTvSiQqpGTmZCzQR8vhku=s100"},
+    {"firstName":"com.hitmusicandentertainment.nepalivid","name":"Nepali Videos Songs", "lastName":"https://lh3.googleusercontent.com/3nxGiwsfN5quwQD5jxL1iW7HVgtC0fFQxUSAi3OlE56nKpV8T8ztKK9CzdWPe1eJH-agEzzfrYzzEN6l=s100"}
+]
